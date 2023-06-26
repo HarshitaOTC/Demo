@@ -24,4 +24,4 @@ jobs:
     - name:  Install MAUI workload
       run: dotnet workload install maui
     - name: Build
-      run: dotnet build Demo/DemoMaui.csproj -c Release -f:net7.0-windows10.0.19041.0
+      run: dotnet build DemoMaui.csproj -c Release -f:net7.0-windows10.0.19041.0
