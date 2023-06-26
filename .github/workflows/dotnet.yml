@@ -24,7 +24,7 @@ jobs:
     - name:  Install MAUI workload
       run: dotnet workload install maui
     - name: Decrypt PFX File 
-      run: |
+      run: 
        echo "${{ secrets.WINDOWS_PFX_FILE }}" › cert.pfx.asc
        certutil -decode cert.pfx.asc cert.pfx
     - name: Add Cert to Store
