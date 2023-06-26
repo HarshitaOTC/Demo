@@ -28,10 +28,10 @@ jobs:
        echo "${{ secrets.WINDOWS_PFX_FILE }}" › cert.pfx.asc
        certutil -decode cert.pfx.asc cert.pfx
     - name: Add Cert to Store
-      run: certutil -user -q -p ${{ secrets.WINDOWS_PFX_PASSWORD }} - importpfx cert.pfx NoRoot
+      run: certutil -user -q -p ${{ secrets.WINDOWS_PFX_PASSWORD }} -importpfx cert.pfx NoRoot
     - name: Build
       run: dotnet publish DemoMaui.csproj -c Release -f:net7.0-windows10.0.19041.0 /p:GenerateppxPackageOnBuild-true /p:AppxPackagesigningEnabled-true /p:PackageCertificateThumbprint="{{secrets.WINDOWS_PFX_THUMBPRINT}}"
-    - name: Uoload Build Artifacts 
+    - name: Upload Build Artifacts 
       uses: actions/upload-artifact@v3.1.0 
       with:
         path: .\**\ApoPackages\**\*.*
