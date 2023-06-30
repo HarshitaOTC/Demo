@@ -5,12 +5,12 @@
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0-android31.0/GoogleGson.dll": {
+          "lib/net7.0-android31.0/GoogleGson.dll": {
             "related": ".aar;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0-android31.0/GoogleGson.dll": {
+          "lib/net7.0-android31.0/GoogleGson.dll": {
             "related": ".aar;.xml"
           }
         }
