@@ -1,1 +1,1 @@
-C:\Users\OTC\Harshita_Workspace\DemoMaui\DemoMaui.csproj;x64
+C:\Users\OTC\Documents\GitHub\Demo\DemoMaui.csproj;x64

@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>b7b8eb21-c09d-4886-8ad6-a482c9a957cd</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\OTC\Harshita_Workspace\DemoMaui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\OTC\Documents\GitHub\Demo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>F3BE7C95AAD9180F4319AA522CDB567A342BCC9EE0F5CD3954FA8E27CC7310B3</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>b7b8eb21-c09d-4886-8ad6-a482c9a957cd_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>b7b8eb21-c09d-4886-8ad6-a482c9a957cd_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,28 +26,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\OTC\Documents\GitHub\Demo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-06-26T07:26:42.843</Modified>
+      <Modified>2023-06-27T07:38:47.111</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-06-26T07:26:42.492</Modified>
+      <Modified>2023-06-27T07:38:46.547</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMaui.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMaui.runtimeconfig.json">
       <PackagePath>DemoMaui.runtimeconfig.json</PackagePath>
-      <Modified>2023-06-26T07:26:41.411</Modified>
+      <Modified>2023-06-27T07:38:45.851</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMaui.dll">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMaui.dll">
       <PackagePath>DemoMaui.dll</PackagePath>
-      <Modified>2023-06-26T07:26:36.250</Modified>
+      <Modified>2023-06-27T07:38:41.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DemoMaui.exe</PackagePath>
-      <Modified>2023-06-26T07:26:36.290</Modified>
+      <Modified>2023-06-27T07:38:41.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\OTC\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.5\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -917,9 +917,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMaui.deps.json">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMaui.deps.json">
       <PackagePath>DemoMaui.deps.json</PackagePath>
-      <Modified>2023-06-26T07:26:42.676</Modified>
+      <Modified>2023-06-27T07:38:46.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -933,239 +933,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-04-25T10:56:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-06-26T07:25:53.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-06-26T07:26:27.214</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-06-26T07:26:27.235</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-06-26T07:26:27.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-06-26T07:26:27.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-06-26T07:26:27.464</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-06-26T07:25:53.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-06-26T07:25:53.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-06-26T07:26:27.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-06-26T07:26:27.872</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-06-26T07:26:27.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-06-26T07:26:27.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-06-26T07:26:27.917</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-06-26T07:26:27.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-06-26T07:26:27.628</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-06-26T07:26:27.632</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-06-26T07:26:27.651</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-06-26T07:26:27.637</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-06-26T07:26:27.642</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-06-26T07:26:27.594</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-06-26T07:26:27.599</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-06-26T07:26:27.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-06-26T07:26:27.604</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-06-26T07:26:27.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-06-26T07:26:27.538</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-06-26T07:26:27.543</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-06-26T07:26:27.547</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-06-26T07:26:27.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-06-26T07:26:27.562</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-06-26T07:26:27.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-06-26T07:26:27.570</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-06-26T07:26:27.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-06-26T07:26:27.576</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-06-26T07:26:27.579</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-06-26T07:26:27.716</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-06-26T07:26:27.723</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-06-26T07:26:27.730</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-06-26T07:26:27.741</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-06-26T07:26:27.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-06-26T07:26:27.683</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-06-26T07:26:27.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-06-26T07:26:27.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-06-26T07:26:27.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-06-26T07:26:27.710</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-06-26T07:26:27.656</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-06-26T07:26:27.660</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-06-26T07:26:27.664</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-06-26T07:26:27.670</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-06-26T07:26:27.677</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-06-26T07:26:27.766</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-06-26T07:26:27.795</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-06-26T07:26:27.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-06-26T07:26:27.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-06-26T07:26:27.864</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-06-26T07:26:27.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-06-26T07:26:27.600</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-06-26T07:26:27.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-06-26T07:26:27.646</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\OTC\Harshita_Workspace\DemoMaui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\OTC\Documents\GitHub\Demo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-06-26T07:26:27.700</Modified>
     </AppxPackagedFile>
